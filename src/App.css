@@ -1,0 +1,12 @@
+.wrapper{
+    margin: 0 auto;
+    max-width: 700px;
+    width: 80%;
+    min-width: 200px;
+}
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
